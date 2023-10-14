@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseWriteReadDemo</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_mobile_no">Enter Your Mobile No</string>
+    <string name="submit">Submit</string>
+    <string name="get_mobile_no">Get Mobile No</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+</resources>
